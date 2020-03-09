@@ -1,8 +1,5 @@
 # Lab-Two
 
-1st day created calculations to practise, learnt about pre and post incrementing.
-2nd day, a lot of math caculations, null, undefined, adding integers and strings, '==='
-
 ## Journel Entry 3
 
 ### What
