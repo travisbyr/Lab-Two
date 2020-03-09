@@ -11,6 +11,8 @@ This week we learnt more amount using mathematical equations. We did this by don
 
 ### Why
 
+The variety of javascript operators and good to learn as they can be used effetively to create applications. It is almost guaranteed that while creating an application that their will be a javascript operator used.
+
 Text goes here...
 
 ### How
