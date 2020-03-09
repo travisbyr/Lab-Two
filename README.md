@@ -8,7 +8,7 @@ This week we learnt more amount using mathematical equations. We did this by don
 
 ### Why
 
-The variety of javascript operators are good to learn as they can be used effetively to create applications. It is almost guaranteed that while creating an application that their will be a javascript operator used. By learnting these operators we are able to figure out solutions in functions and if statements accuratly and efficently.
+The variety of javascript operators are good to learn as they can be used effetively to create applications. It is almost guaranteed that while creating an application that their will be a javascript operator used. By learning these operators I am able to implement these into the programs I create. These operators will enable me to calculate and recieve a solution from functions, if statements etc.
 
 ### How
 
