@@ -1,6 +1,6 @@
 # Lab-Two
 
-## Journel Entry 3
+## Journal Entry 3
 
 ### What
 
